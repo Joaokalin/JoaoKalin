@@ -9,10 +9,10 @@
 <br>
 <div>
 <img align="center" alt="HTML" height="30" width="30" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=46006b">
-<img align="center" alt="Js" height="30" width="30" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=46006b">
+<img align="center" alt="Js" height="30" width="30"  style='padding-right:10px;' src="https://icongr.am/devicon/javascript-original.svg?size=148&color=46006b">
 <img align="center" alt="HTML" height="30" width="30" src="https://icongr.am/devicon/redis-original.svg?size=148&color=46006b">
 <img align="center" alt="Js" height="30" width="30" src="https://icongr.am/devicon/postgresql-original.svg?size=148&color=46006b">
-<img align="center" alt="HTML" height="30" width="30" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=148&color=46006b">
+<img align="center" alt="HTML" height="30" width="30" style='padding-right:10px;' src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=148&color=46006b">
 <img align="center" alt="HTML" height="30" width="30" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg">
 <img align="center" alt="HTML" height="30" width="30" src="https://pics.freeicons.io/uploads/icons/png/625237101536207297-512.png">
 </div>
