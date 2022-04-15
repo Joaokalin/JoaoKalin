@@ -1,16 +1,33 @@
-### Hi there 👋
+### Olá! Seja bem-vindo(a)
 
-<!--
-**Joaokalin/JoaoKalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaokalin&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaokalin&layout=compact&langs_count=6&theme=radical"/>
+</div>
 
-Here are some ideas to get you started:
+<div>
+Linguagens:
+<img align="center" alt="HTML" height="30" width="30" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=46006b">
+<img align="center" alt="Js" height="30" width="30" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=46006b">
+</div>
+<br>
+<div>
+Dados:
+<img align="center" alt="HTML" height="30" width="30" src="https://icongr.am/devicon/redis-original.svg?size=148&color=46006b">
+<img align="center" alt="Js" height="30" width="30" src="https://icongr.am/devicon/postgresql-original.svg?size=148&color=46006b">
+<img align="center" alt="HTML" height="30" width="30" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=148&color=46006b">
+</div>
+<br>
+<div>
+Mensageria:
+<img align="center" alt="HTML" height="30" width="30" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg">
+<img align="center" alt="HTML" height="30" width="30" src="https://pics.freeicons.io/uploads/icons/png/625237101536207297-512.png">
+</div>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasconcelosjoao438@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-paulo-backend/
+)
